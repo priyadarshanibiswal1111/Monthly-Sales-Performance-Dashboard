@@ -8,7 +8,7 @@ This project transforms raw sales data into an interactive Excel dashboard that 
 
 The dashboard provides a clear view of monthly sales performance and allows users to filter the analysis using interactive slicers.
 
-## ![Dashboard Preview](dashboard-preview.png)
+## ![Dashboard Preview](dashboard.png)
 
 ## 🛠️ Tools & Technologies
 
